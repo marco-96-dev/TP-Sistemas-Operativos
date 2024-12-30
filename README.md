@@ -40,7 +40,7 @@ _Este proyecto tiene como finalidad crear un programa que permita a lo  usuarios
 Si tienes interés en contribuir con este proyecto, a continuación te dejo un enlace para poder acceder al mismo...
 En el enlace a continuación se muestra detalladamente como está hecho y organizado el proyecto, si tienes algunas sugerencias o ideas para mejorar el proyecto, no dudes en hacermelo saber.
 
-https://github.com/marcosz-96/Proyecto_Sistemas_Operativos1.git
+https://github.com/marco-96-dev/TP-Sistemas-Operativos/edit/main/README.md
 
 MIT Licence [2024] [Proyecto Sistemas Operativos]
 
